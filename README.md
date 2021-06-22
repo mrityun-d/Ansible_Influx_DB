@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>DevOps Chachwa Group</title>
+<title>DevOps  Group</title>
 </head>
 <body>
 
